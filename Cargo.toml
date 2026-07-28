@@ -73,3 +73,8 @@ litesvm = "0.9.0"
 thiserror = "2.0"
 num-traits = "0.2"
 num-derive = "0.4"
+[patch.crates-io]
+spl-tlv-account-resolution = { git = "https://github.com/stranzhay/libraries.git", branch = "fix/tlv-cpi-resolution-allocations" }
+spl-discriminator = { git = "https://github.com/stranzhay/libraries.git", branch = "fix/tlv-cpi-resolution-allocations" }
+spl-pod = { git = "https://github.com/stranzhay/libraries.git", branch = "fix/tlv-cpi-resolution-allocations" }
+spl-type-length-value = { git = "https://github.com/stranzhay/libraries.git", branch = "fix/tlv-cpi-resolution-allocations" }
