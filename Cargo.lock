@@ -6297,7 +6297,7 @@ dependencies = [
 [[package]]
 name = "spl-discriminator"
 version = "0.5.2"
-source = "git+https://github.com/stranzhay/libraries.git?branch=fix%2Ftlv-cpi-resolution-allocations#010ceeddc0efce6866c551eeec276c2362568474"
+source = "git+https://github.com/stranzhay/libraries.git?branch=fix%2Ftlv-cpi-resolution-allocations#5a24570c6146859e8cb6307bebe684a020320d3b"
 dependencies = [
  "bytemuck",
  "solana-program-error",
@@ -6308,7 +6308,7 @@ dependencies = [
 [[package]]
 name = "spl-discriminator-derive"
 version = "0.2.0"
-source = "git+https://github.com/stranzhay/libraries.git?branch=fix%2Ftlv-cpi-resolution-allocations#010ceeddc0efce6866c551eeec276c2362568474"
+source = "git+https://github.com/stranzhay/libraries.git?branch=fix%2Ftlv-cpi-resolution-allocations#5a24570c6146859e8cb6307bebe684a020320d3b"
 dependencies = [
  "quote",
  "spl-discriminator-syn",
@@ -6318,7 +6318,7 @@ dependencies = [
 [[package]]
 name = "spl-discriminator-syn"
 version = "0.2.1"
-source = "git+https://github.com/stranzhay/libraries.git?branch=fix%2Ftlv-cpi-resolution-allocations#010ceeddc0efce6866c551eeec276c2362568474"
+source = "git+https://github.com/stranzhay/libraries.git?branch=fix%2Ftlv-cpi-resolution-allocations#5a24570c6146859e8cb6307bebe684a020320d3b"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -6355,7 +6355,7 @@ dependencies = [
 [[package]]
 name = "spl-list-view"
 version = "0.1.0"
-source = "git+https://github.com/stranzhay/libraries.git?branch=fix%2Ftlv-cpi-resolution-allocations#010ceeddc0efce6866c551eeec276c2362568474"
+source = "git+https://github.com/stranzhay/libraries.git?branch=fix%2Ftlv-cpi-resolution-allocations#5a24570c6146859e8cb6307bebe684a020320d3b"
 dependencies = [
  "bytemuck",
  "num-derive",
@@ -6379,7 +6379,7 @@ dependencies = [
 [[package]]
 name = "spl-pod"
 version = "0.7.3"
-source = "git+https://github.com/stranzhay/libraries.git?branch=fix%2Ftlv-cpi-resolution-allocations#010ceeddc0efce6866c551eeec276c2362568474"
+source = "git+https://github.com/stranzhay/libraries.git?branch=fix%2Ftlv-cpi-resolution-allocations#5a24570c6146859e8cb6307bebe684a020320d3b"
 dependencies = [
  "borsh",
  "bytemuck",
@@ -6425,7 +6425,7 @@ dependencies = [
 [[package]]
 name = "spl-tlv-account-resolution"
 version = "0.11.1"
-source = "git+https://github.com/stranzhay/libraries.git?branch=fix%2Ftlv-cpi-resolution-allocations#010ceeddc0efce6866c551eeec276c2362568474"
+source = "git+https://github.com/stranzhay/libraries.git?branch=fix%2Ftlv-cpi-resolution-allocations#5a24570c6146859e8cb6307bebe684a020320d3b"
 dependencies = [
  "bytemuck",
  "num-derive",
@@ -6640,7 +6640,7 @@ dependencies = [
 [[package]]
 name = "spl-type-length-value"
 version = "0.9.1"
-source = "git+https://github.com/stranzhay/libraries.git?branch=fix%2Ftlv-cpi-resolution-allocations#010ceeddc0efce6866c551eeec276c2362568474"
+source = "git+https://github.com/stranzhay/libraries.git?branch=fix%2Ftlv-cpi-resolution-allocations#5a24570c6146859e8cb6307bebe684a020320d3b"
 dependencies = [
  "bytemuck",
  "num-derive",
