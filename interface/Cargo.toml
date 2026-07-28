@@ -7,6 +7,7 @@ license = { workspace = true }
 edition = { workspace = true }
 
 [dependencies]
+arrayvec = "0.7.6"
 num-traits = { workspace = true }
 solana-account-info = { workspace = true }
 solana-cpi = { workspace = true }
@@ -14,7 +15,9 @@ solana-instruction = { workspace = true }
 solana-program-error = { workspace = true }
 solana-pubkey = { workspace = true }
 spl-discriminator = { workspace = true }
+spl-pod = { workspace = true }
 spl-tlv-account-resolution = { workspace = true }
+spl-type-length-value = { workspace = true }
 thiserror = { workspace = true }
 
 [lib]

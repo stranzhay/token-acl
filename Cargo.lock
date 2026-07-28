@@ -6893,6 +6893,7 @@ dependencies = [
 name = "token-acl-interface"
 version = "0.2.3"
 dependencies = [
+ "arrayvec",
  "num-traits",
  "solana-account-info",
  "solana-cpi",
@@ -6901,7 +6902,9 @@ dependencies = [
  "solana-program-error",
  "solana-pubkey 4.0.0",
  "spl-discriminator",
+ "spl-pod",
  "spl-tlv-account-resolution",
+ "spl-type-length-value",
  "thiserror 2.0.17",
  "tokio",
 ]
