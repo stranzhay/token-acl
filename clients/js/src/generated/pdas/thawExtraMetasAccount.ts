@@ -23,7 +23,7 @@ export async function findThawExtraMetasAccountPda(
   config: { programAddress?: Address | undefined } = {},
 ): Promise<ProgramDerivedAddress> {
   const {
-    programAddress = "TACLkU6CiCdkQN2MjoyDkVg2yAH9zkxiHDsiztQ52TP" as Address<"TACLkU6CiCdkQN2MjoyDkVg2yAH9zkxiHDsiztQ52TP">,
+    programAddress = "6KXQUXB16MppxdeW7VjLdjYCizS4Vs78AXca7ALhPJQq" as Address<"6KXQUXB16MppxdeW7VjLdjYCizS4Vs78AXca7ALhPJQq">,
   } = config;
   return await getProgramDerivedAddress({
     programAddress,
