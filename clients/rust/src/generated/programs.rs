@@ -8,4 +8,4 @@
 use solana_pubkey::{pubkey, Pubkey};
 
 /// `token_acl` program ID.
-pub const TOKEN_ACL_ID: Pubkey = pubkey!("TACLkU6CiCdkQN2MjoyDkVg2yAH9zkxiHDsiztQ52TP");
+pub const TOKEN_ACL_ID: Pubkey = pubkey!("6KXQUXB16MppxdeW7VjLdjYCizS4Vs78AXca7ALhPJQq");

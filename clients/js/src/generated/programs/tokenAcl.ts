@@ -27,7 +27,7 @@ import {
 } from "../instructions";
 
 export const TOKEN_ACL_PROGRAM_ADDRESS =
-  "TACLkU6CiCdkQN2MjoyDkVg2yAH9zkxiHDsiztQ52TP" as Address<"TACLkU6CiCdkQN2MjoyDkVg2yAH9zkxiHDsiztQ52TP">;
+  "6KXQUXB16MppxdeW7VjLdjYCizS4Vs78AXca7ALhPJQq" as Address<"6KXQUXB16MppxdeW7VjLdjYCizS4Vs78AXca7ALhPJQq">;
 
 export enum TokenAclAccount {
   FlagAccount,
@@ -103,7 +103,7 @@ export function identifyTokenAclInstruction(
 }
 
 export type ParsedTokenAclInstruction<
-  TProgram extends string = "TACLkU6CiCdkQN2MjoyDkVg2yAH9zkxiHDsiztQ52TP",
+  TProgram extends string = "6KXQUXB16MppxdeW7VjLdjYCizS4Vs78AXca7ALhPJQq",
 > =
   | ({
       instructionType: TokenAclInstruction.CreateConfig;

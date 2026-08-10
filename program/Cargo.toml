@@ -36,4 +36,4 @@ workspace = true
 targets = ["x86_64-unknown-linux-gnu"]
 
 [package.metadata.solana]
-program-id = "TACLkU6CiCdkQN2MjoyDkVg2yAH9zkxiHDsiztQ52TP"
+program-id = "6KXQUXB16MppxdeW7VjLdjYCizS4Vs78AXca7ALhPJQq"
